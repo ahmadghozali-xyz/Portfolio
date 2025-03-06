@@ -97,7 +97,7 @@ npm run build
 
 ## 📄 Lisensi
 
-Hak Cipta © 2024 [Ahmad Ghozali](https://github.com/ahmadghozali-xyz). Seluruh hak dilindungi.
+Hak Cipta © 2025 [Ahmad Ghozali](https://github.com/ahmadghozali-xyz). Seluruh hak dilindungi.
 
 ---
 
