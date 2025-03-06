@@ -4,7 +4,8 @@
   <h3>Portofolio Profesional Berbasis Web Modern</h3>
   <p>Dibangun dengan teknologi terkini untuk menciptakan pengalaman digital yang menarik</p>
 </div>
-![Portfolio Preview](https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P1.png)
+
+![Portfolio Preview](https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P1.jpg)
 
 ## ✨ Fitur Unggulan
 
