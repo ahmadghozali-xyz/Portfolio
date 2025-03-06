@@ -43,29 +43,6 @@ portfolio/
 ├── public/            # Aset Statis
 └── dist/             # Build Production
 ```
-
-## 🚀 Proyek Unggulan
-
-- **Website MDTA Al-Muhajirin**
-  - Sistem manajemen sekolah terintegrasi
-  - Pendaftaran online & administrasi digital
-  
-- **Website MI Nurul Islam**
-  - Portal informasi sekolah komprehensif
-  - Sistem administrasi modern
-
-- **Bot Nulis**
-  - Konversi teks ke tulisan tangan realistis
-  - Teknologi AI untuk hasil optimal
-
-- **TikTok Bot**
-  - Otomatisasi engagement social media
-  - Sistem tracking metrics realtime
-
-- **Peta SPBU Pekanbaru**
-  - Pemetaan digital lokasi SPBU
-  - Informasi realtime & navigasi
-
 ## ⚙️ Instalasi & Penggunaan
 
 ```bash
