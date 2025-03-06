@@ -4,7 +4,6 @@
   <h3>Portofolio Profesional Berbasis Web Modern</h3>
   <p>Dibangun dengan teknologi terkini untuk menciptakan pengalaman digital yang menarik</p>
 </div>
-Demo = https://rococo-baklava-01241e.netlify.app/#portfolio
 ![Portfolio Preview](https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P1.png)
 
 ## ✨ Fitur Unggulan
