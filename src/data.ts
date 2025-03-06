@@ -5,18 +5,22 @@ export const projects: Project[] = [
     title: 'Website MDTA Al-Muhajirin',
     description: 'Website untuk memperkenalkan MDTA Al-Muhajirin ke publik, sistem pendaftaran online, dan manajemen administrasi siswa termasuk pembayaran SPP.',
     image: 'https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P1.jpg',
+    github: 'https://github.com/ahmadghozali-xyz/MDTA-ALMUHAJIRIN',
+    demo: 'https://scintillating-lebkuchen-435864.netlify.app/',
     tech: ['HTML', 'TypeScript', 'Vite', 'Supabase'],
   },
   {
     title: 'Website MI Nurul Islam',
     description: 'Website sekolah MI Nurul Islam untuk informasi publik, pendaftaran siswa baru, dan sistem manajemen administrasi sekolah.',
     image: 'https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P2.jpg',
+    github: 'https://github.com/ahmadghozali-xyz/Mi-Nurul-Islam',
     tech: ['HTML', 'TypeScript', 'Vite', 'Supabase'],
   },
   {
     title: 'Bot Nulis',
     description: 'Aplikasi web untuk mengkonversi teks digital menjadi gambar tulisan tangan yang realistis di atas kertas.',
     image: 'https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P3.jpg',
+    github: 'https://github.com/ahmadghozali-xyz/Bot-Nulis',
     tech: ['Python', 'OpenCV', 'Flask'],
   },
   {
@@ -30,6 +34,7 @@ export const projects: Project[] = [
     title: 'Peta SPBU Pekanbaru',
     description: 'Website pemetaan lokasi SPBU di Pekanbaru dengan informasi detail setiap SPBU.',
     image: 'https://raw.githubusercontent.com/ahmadghozali-xyz/Draw.io/refs/heads/main/Portfolio/P5.jpg',
+    github: 'https://github.com/ahmadghozali-xyz/OpenStreetMap-byLeaflet',
     tech: ['React', 'Leaflet', 'OpenStreetMap'],
   }
 ];
